@@ -1,0 +1,9 @@
+SM_building_desert_b_01
+SM_building_template_01
+SM_cliff_01
+SM_bush_01
+SM_cactus_01
+SM_grass_01
+SM_tree_palm_01
+SM_tree_palm_small_01
+SM_tree_regular_01
