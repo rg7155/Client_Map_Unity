@@ -1,0 +1,32 @@
+<Hierarchy>:
+	<Frame>: 0 1 Thorn_Projectile
+		<Transform>: 0 0 5.354516E-09 270 0 0 1 1 1 -0.7071068 0 0 0.7071068  
+		<TransformMatrix>: 1 0 0 0 0 -1.192093E-07 -1 0 0 1 -1.192093E-07 0 0 0 5.354516E-09 1  
+		<Mesh>: 18 Thorn_Projectile
+			<Bounds>: -0.01047455 -0.01335561 0.02347948 0.1272298 0.1272986 0.1979681
+			<Positions>: 0  
+			<Colors>: 0  
+			<TextureCoords0>: 0  
+			<TextureCoords1>: 0  
+			<Normals>: 0  
+			<SubMeshes>: 1
+				<SubMesh>: 0 0  
+		</Mesh>
+		<Materials>: 1
+			<Material>: 0
+				<AlbedoColor>: 0.5882353 0.5882353 0.5882353 1
+				<EmissiveColor>: 0 0 0 1
+				<Glossiness>: 0
+				<Metallic>: 0
+				<SpecularHighlight>: 1
+				<GlossyReflection>: 1
+				<AlbedoMap>: Cacti
+				<MetallicMap>: null
+				<NormalMap>: null
+				<EmissionMap>: null
+				<DetailAlbedoMap>: null
+				<DetailNormalMap>: null
+		</Materials>
+		<Children>: 0
+	</Frame>
+</Hierarchy>

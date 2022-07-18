@@ -1,0 +1,251 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.4f1 (4cd64a618c1b) revision 5035594'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1766; Version 2009; 64bit' Language: 'ko' Physical Memory: 12220 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/유니티/Client_Map_Unity/Client_Map
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+12100
+Successfully changed project path to: E:/유니티/Client_Map_Unity/Client_Map
+E:/유니티/Client_Map_Unity/Client_Map
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 156.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.4f1 (4cd64a618c1b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/유니티/Client_Map_Unity/Client_Map/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2988 MB
+    Driver:   30.0.15.1179
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005857 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 164.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.219 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 164.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.877 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.7 MB.
+System memory in use after: 210.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 5621.
+Total: 4.050000 ms (FindLiveObjects: 0.495700 ms CreateObjectMapping: 0.159700 ms MarkObjects: 3.293300 ms  DeleteObjects: 0.100100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/EffectTexturesAndPrefabs/Textures/fire_A.png
+  artifactKey: Guid(e4627330551d3014bb2d466848a06dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/fire_A.png using Guid(e4627330551d3014bb2d466848a06dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7e38d4ca5083b8ff1aeb7738e6f31c') in 0.110573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/particle_A.png
+  artifactKey: Guid(7a034c8d003ebef4d89457c73317547b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/particle_A.png using Guid(7a034c8d003ebef4d89457c73317547b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a5f53025af7b74e8afcfc0df8fcf1c') in 0.016355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/heart.png
+  artifactKey: Guid(d55c061dc27d0ce4a9ec883994eb8bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/heart.png using Guid(d55c061dc27d0ce4a9ec883994eb8bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c4d829b52804a7756a6fc1feb52739') in 0.016490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/light.png
+  artifactKey: Guid(a6de0b4e38ace5e4281e0b18205d4615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/light.png using Guid(a6de0b4e38ace5e4281e0b18205d4615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d07ee7cef9c93e866005444717826d') in 0.015083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd257206ae50e698012a00b327424d1') in 0.008671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/MuzzleFlash.tga
+  artifactKey: Guid(76c091cfa73cb7e43b5e3a696b08e723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/MuzzleFlash.tga using Guid(76c091cfa73cb7e43b5e3a696b08e723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86bb40c7688321a3a0f5bd9479407ed') in 0.027130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.110878 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/ShockWave.png
+  artifactKey: Guid(068fda816d1984c4d9d66984ad9d3a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/ShockWave.png using Guid(068fda816d1984c4d9d66984ad9d3a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e4f3cebbe84082ccb4e38e7f343043') in 0.016235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.412174 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/slash.png
+  artifactKey: Guid(114545a4b70d362468dce7ca6f39e659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/slash.png using Guid(114545a4b70d362468dce7ca6f39e659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c24922d74bb84bd0c248cd66cd2b32') in 0.015761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.060967 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/smoke_n.png
+  artifactKey: Guid(4cf38eda12d49f54d83a8d3de778eab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/smoke_n.png using Guid(4cf38eda12d49f54d83a8d3de778eab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62aea00b0db51f1e2dc8d65a0217fbcd') in 0.046641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.829790 seconds.
+  path: Assets/EffectTexturesAndPrefabs/Textures/smoke_thick.png
+  artifactKey: Guid(e21987f0672043a459d97b5331c087e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectTexturesAndPrefabs/Textures/smoke_thick.png using Guid(e21987f0672043a459d97b5331c087e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5ce94e527e09050c14a371101c7a00') in 0.015435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.051451 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Scenes
+  artifactKey: Guid(693adde9f0c26ac40916e0010593f1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Scenes using Guid(693adde9f0c26ac40916e0010593f1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d3b0283f4e1743d8d9c395394f866e') in 0.021913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.361852 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites
+  artifactKey: Guid(51a91d3286cfbc64e8c3e07d8aff6cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites using Guid(51a91d3286cfbc64e8c3e07d8aff6cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4211cce4c92f8119261a56214fe6860') in 0.008797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.909126 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX1.png
+  artifactKey: Guid(d89aada08c959314a9e9fb0c2717ebdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX1.png using Guid(d89aada08c959314a9e9fb0c2717ebdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47570ca0d5078fd36f61acb7390a3a91') in 0.074836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.143273 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX2.png
+  artifactKey: Guid(d58864932cb9a604db6e399d99dad4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX2.png using Guid(d58864932cb9a604db6e399d99dad4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b18c20df7f109b5646d9639db8cb229') in 0.053225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.461864 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX3.png
+  artifactKey: Guid(b6f03176b596196498196da36bb43293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX3.png using Guid(b6f03176b596196498196da36bb43293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7817e2a0416a55bf1fb4fb083c3ae8a6') in 0.067335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.782748 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX4.png
+  artifactKey: Guid(0b1832b97305b4647adfde6c1b7e54ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX4.png using Guid(0b1832b97305b4647adfde6c1b7e54ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36b47e4bf5ebe085163db39d3cebe64') in 0.070005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.844411 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX5.png
+  artifactKey: Guid(33f6d2a3674451d4e9c3d1e78bc88c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX5.png using Guid(33f6d2a3674451d4e9c3d1e78bc88c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3913921f1059bb65915082207c997aa8') in 0.069015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.515979 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX6.png
+  artifactKey: Guid(d1bc9e3bf8511c642a1ea52c36db3531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX6.png using Guid(d1bc9e3bf8511c642a1ea52c36db3531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95644b9c5c4cafe72aafe1a2ff8dbde0') in 0.055299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.678265 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX7.png
+  artifactKey: Guid(28cdc18ee01c8e84dba09b54fac9aa7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX7.png using Guid(28cdc18ee01c8e84dba09b54fac9aa7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68b3309384670c88830fec9232a761d') in 0.067964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.667663 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX8.png
+  artifactKey: Guid(866d9e9c67553824db57739baed3f29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX8.png using Guid(866d9e9c67553824db57739baed3f29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5373234a2666ba814daa7e89fbd8aeec') in 0.065586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.789024 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX9.png
+  artifactKey: Guid(2b0f0ae955fbe7e40bb0185030efab62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX9.png using Guid(2b0f0ae955fbe7e40bb0185030efab62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c46ed05caf1d0b6d1147ee8c52568f4') in 0.073543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.583473 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX10.png
+  artifactKey: Guid(8bb17acc5932e914d9db2eb3d3af0078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX10.png using Guid(8bb17acc5932e914d9db2eb3d3af0078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178b359f741bf4cab9f924c18a883d07') in 0.060676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.482293 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX11.png
+  artifactKey: Guid(7fd494e5aa4416f4eabc552d352b0213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX11.png using Guid(7fd494e5aa4416f4eabc552d352b0213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189c1523895046213d0dad1cb19c71cf') in 0.058090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.633909 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX12.png
+  artifactKey: Guid(ff0dd56e983da4b4883a13a7f1ee92dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX12.png using Guid(ff0dd56e983da4b4883a13a7f1ee92dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c1ad2b5b40e0431d2fefba26f29d86') in 0.050282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.256150 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX14.png
+  artifactKey: Guid(c5dc99fcb27f1e84c9cbd3d013f9acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX14.png using Guid(c5dc99fcb27f1e84c9cbd3d013f9acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f119f8de7342b63ffd0af6e7210ff25') in 0.057680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.000495 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX15.png
+  artifactKey: Guid(c49f2f4885f928241803bd22ab08f0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX15.png using Guid(c49f2f4885f928241803bd22ab08f0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d592ad9a9477f1fa0da47b52cbcd04') in 0.073134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.548464 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX13.png
+  artifactKey: Guid(408ff1fb1347f9745bf3ad295455d46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX13.png using Guid(408ff1fb1347f9745bf3ad295455d46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a299386ade407bfe832560fd24b24706') in 0.057440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.924584 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX16.png
+  artifactKey: Guid(456269b1cd66bb041a12f82a082defc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX16.png using Guid(456269b1cd66bb041a12f82a082defc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a788523b8ca275243da33d3c7277ac7') in 0.042857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.520935 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX17.png
+  artifactKey: Guid(646ff8c2b2b54d7409098b93e23dd486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX17.png using Guid(646ff8c2b2b54d7409098b93e23dd486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e388e33073476249cb6a7a36abe3dca2') in 0.074144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.409214 seconds.
+  path: Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX18.png
+  artifactKey: Guid(acffc8583115fd5478c24c8f120d7100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Toon Anime Effects Sprite Sheet Animations/Sprites/ShapeFX18.png using Guid(acffc8583115fd5478c24c8f120d7100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d89cd419b8f647ccc98841c5a616856') in 0.077639 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

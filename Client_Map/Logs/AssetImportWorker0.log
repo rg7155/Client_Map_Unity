@@ -1,0 +1,227 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.4f1 (4cd64a618c1b) revision 5035594'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1766; Version 2009; 64bit' Language: 'ko' Physical Memory: 12220 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/유니티/Client_Map_Unity/Client_Map
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+3905
+Successfully changed project path to: E:/유니티/Client_Map_Unity/Client_Map
+E:/유니티/Client_Map_Unity/Client_Map
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 173.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.4f1 (4cd64a618c1b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/유니티/Client_Map_Unity/Client_Map/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2988 MB
+    Driver:   30.0.15.1179
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006199 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 167.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.252 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013843 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 168.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.930 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.7 MB.
+System memory in use after: 210.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 5621.
+Total: 4.461100 ms (FindLiveObjects: 0.535500 ms CreateObjectMapping: 0.161400 ms MarkObjects: 3.659700 ms  DeleteObjects: 0.103400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Cast Spell.FBX
+  artifactKey: Guid(a988dd01264ad9f42b91c3bf04a6307f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Cast Spell.FBX using Guid(a988dd01264ad9f42b91c3bf04a6307f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315a182136df0caa9eed779cd0e47c35') in 0.324417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Dash Forward Attack In Place.FBX
+  artifactKey: Guid(f29529ffcd7c9894fb44054a76805ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Dash Forward Attack In Place.FBX using Guid(f29529ffcd7c9894fb44054a76805ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947c03fe6e6d52eec1f35d1bce43f608') in 0.041444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/Read Me
+  artifactKey: Guid(08a6c92bc8dee454a9015f2ba64d5da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/Read Me using Guid(08a6c92bc8dee454a9015f2ba64d5da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b267daf6ade097acb11324c1ae49ce8b') in 0.008623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/Materials
+  artifactKey: Guid(24d7f624b60afd14382c8f41cd82d0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/Materials using Guid(24d7f624b60afd14382c8f41cd82d0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfa8389e750efffa3ffba7fc63b74cd') in 0.026246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.642982 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Dash Forward Attack W Root.FBX
+  artifactKey: Guid(d54ce8e195ecf1142b340004ae7867fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Dash Forward Attack W Root.FBX using Guid(d54ce8e195ecf1142b340004ae7867fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0726628898dedb26e4706785e5662140') in 0.051076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.287918 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Idle.FBX
+  artifactKey: Guid(c51d645f7ceb7ec4bad3a57a5675530e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Idle.FBX using Guid(c51d645f7ceb7ec4bad3a57a5675530e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd805fe45d8e60f64dc52d988200fa660') in 0.046313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.684133 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Run Forward W Root.FBX
+  artifactKey: Guid(ab13962ca18993e4db4c3e489593bb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Run Forward W Root.FBX using Guid(ab13962ca18993e4db4c3e489593bb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76eb68e844459fe7f4e0f02dac143578') in 0.051529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.362854 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Run Forward In Place.FBX
+  artifactKey: Guid(b2c2db046bf15434f817dbfdbddc7b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Run Forward In Place.FBX using Guid(b2c2db046bf15434f817dbfdbddc7b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaed829d8c472d4deb2c804df6bc5146') in 0.057042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.031470 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Breath Attack.FBX
+  artifactKey: Guid(801547592d45e13449ef0ad81f57bf53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Breath Attack.FBX using Guid(801547592d45e13449ef0ad81f57bf53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd440becd46c1b8553fd5b9f28268604d') in 0.055548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.271814 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss.controller
+  artifactKey: Guid(f3b0ef585180c994ab2e26e1e4768056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss.controller using Guid(f3b0ef585180c994ab2e26e1e4768056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487c444f9898e1c49173871dab09c7d8') in 0.051045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 123.529655 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Projectile Attack.FBX
+  artifactKey: Guid(1861fb8acb2d8e84d9feb95408f28fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Projectile Attack.FBX using Guid(1861fb8acb2d8e84d9feb95408f28fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9717000ad60469513ed3994ef5b5ab9c') in 0.056264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.238105 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Jump Smack Attack.FBX
+  artifactKey: Guid(b214ce0b7be52764193b6a913bcdd571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Jump Smack Attack.FBX using Guid(b214ce0b7be52764193b6a913bcdd571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661e04db524e4c1f737c86020675f280') in 0.063046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.782022 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Turn Right.FBX
+  artifactKey: Guid(a3a260d11b528f345a60fbbb075ce112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Turn Right.FBX using Guid(a3a260d11b528f345a60fbbb075ce112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1afd53663734151878e361d27a368450') in 0.062968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.612665 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Walk Forward W Root.FBX
+  artifactKey: Guid(fd464307321cb5448b5683e5fb33b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Walk Forward W Root.FBX using Guid(fd464307321cb5448b5683e5fb33b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9c19c0f8a868cfb1e26a202c90c475') in 0.055969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.058052 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Walk Forward In Place.FBX
+  artifactKey: Guid(a6403a7f55a370e41bc32cbe7d9ceec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Walk Forward In Place.FBX using Guid(a6403a7f55a370e41bc32cbe7d9ceec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ca9eb2941ac612df05ffe7844bb0ca') in 0.057839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.150950 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Take Damage.FBX
+  artifactKey: Guid(ae333e5eeb85e644b85f5dc170219918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Take Damage.FBX using Guid(ae333e5eeb85e644b85f5dc170219918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00af0b2b88ee8c047e3acef15b257aa1') in 0.052569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.902348 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Die.FBX
+  artifactKey: Guid(7812e01b6e490e446a95451e353c3f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss@Die.FBX using Guid(7812e01b6e490e446a95451e353c3f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d94bcbaf62fc7f0df6301597c129dfa') in 0.077180 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011853 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.839 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5087 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.6 MB.
+System memory in use after: 222.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 5669.
+Total: 4.898800 ms (FindLiveObjects: 0.561100 ms CreateObjectMapping: 0.171900 ms MarkObjects: 4.083400 ms  DeleteObjects: 0.080500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.964597 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss.FBX
+  artifactKey: Guid(7fa4d7a5e98aab140a5ce2ef79fa8460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss.FBX using Guid(7fa4d7a5e98aab140a5ce2ef79fa8460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c0ac6883f796e6f1eb01433e4d1a48') in 0.121012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.808720 seconds.
+  path: Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss.FBX
+  artifactKey: Guid(7fa4d7a5e98aab140a5ce2ef79fa8460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cacti Cactus Boss Evolution Pack Cute Series/Cactus Boss Cute Series/FBX/Cactus Boss.FBX using Guid(7fa4d7a5e98aab140a5ce2ef79fa8460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0bc0df8c5f8680a19a8760109a270cf') in 0.043331 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.820 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5087 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.7 MB.
+System memory in use after: 222.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 5674.
+Total: 3.822300 ms (FindLiveObjects: 0.515700 ms CreateObjectMapping: 0.162800 ms MarkObjects: 3.068900 ms  DeleteObjects: 0.074000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

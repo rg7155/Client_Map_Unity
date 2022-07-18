@@ -3,7 +3,12 @@ guid: 7a361f60969d8be4d8e392e14aa2d57a
 ModelImporter:
   serializedVersion: 21100
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_colorpallete_rome
+    second: {fileID: 4279928653362760349, guid: 4c245b6d57e2c494c89e074d9ed09e1e, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0

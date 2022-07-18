@@ -786,7 +786,7 @@ public class BinaryHierarchicalModelExtract : MonoBehaviour
         binaryWriter.Flush();
         binaryWriter.Close();
 
-        print("Model Binary Write Completed");
+        print(gameObject.name + "Model Binary Write Completed");
     }
 }
 
